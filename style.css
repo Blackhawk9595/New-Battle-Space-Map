@@ -1,11 +1,20 @@
 header {
     color: red;
     text-align: center;
+    font-size:x-large;
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  background-color: burlywood;
+  height: 350px;
+  padding-top: 50px;
 
 }
 
+
 body {
     background-color: #D9F2B6;
+    font-family: 'Karantina', cursive;
+
 }
 
 
@@ -27,5 +36,8 @@ body {
     transition: 0.3s;
   }
 
+  h2 {
+    font-size: 75px;
+  }
 
 
