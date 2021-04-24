@@ -18,11 +18,11 @@ padding-top: 50px;
 body {
   background-color: #D9F2B6;
   font-family: 'Karantina', cursive;
-  background: linear-gradient(to right,rgb(66, 66, 66),#7fb1e2);
+  background: linear-gradient(to LEFT,rgb(109, 102, 141),#7fb1e2);
 
 
 }
 
 a:hover {
-  background-color: yellow;
+  background-color: rgb(245, 245, 168);
 }
