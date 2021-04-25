@@ -1,6 +1,6 @@
 
 
-header {
+.jumbotron {
   color: red;
   text-align: center;
   font-size:x-large;
@@ -25,4 +25,9 @@ body {
 
 a:hover {
   background-color: rgb(245, 245, 168);
+}
+
+.container {
+  background-color: rgb(175, 67, 59);
+
 }
